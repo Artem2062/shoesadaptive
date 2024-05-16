@@ -73,4 +73,7 @@ body{
         margin-left: 10%;
         margin-right: 10%;
     }
+    .button{
+        font-size: 20px;
+    }
 }
